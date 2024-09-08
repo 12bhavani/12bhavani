@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Bhavani Kongari!👋
+I'm from Hyderabad, India🏡, I have completed my Bachelor's degree 🎓 in Computer Science from Sreyas Institute of Engineering and Technology(Hyderabad, India)👩‍🎓 in May, 2024.<br>
+During my Bachelor's degree, I have done 3 projects and from these, I have published 2 papers. Below are links to them, feel free to have a look at them. <br>
+- [AUTOMATIC SCROLLING BY COLOR DETECTION](https://www.intjecse.net/article/AUTOMATIC+SCROLLING+BY+COLOR+DETECTION_6284/) <br>
+- [AN IMPLEMENTATION OF BLOCK CHAIN TECHNOLOGY IN FORENSIC EVIDENCE MANAGEMENT](https://www.intjecse.net/article/AN+IMPLEMENTATION+OF+BLOCK+CHAIN+TECHNOLOGY+IN+FORENSIC+EVIDENCE+MANAGEMENT_6885/) <br>
 
-<!--
-**12bhavani/12bhavani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a *graduate student*✍, major in *Applied Computer Science* at Northwest Missouri State University😊
 
-Here are some ideas to get you started:
+#### Languages and Tools:
+- C, C++, Python, Java, JavaScript, SQL
+- Windows, Linux
+- Visual Studio Code, MySQL Workbench, Oracle SQL Developer, MS Project & Office
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Apart, I'm interested in Sports🏅, Arts🖌, Travelling🛫.
